@@ -74,25 +74,21 @@ iOSエンジニアとしてキャリアをスタートした後、フロント�
 | プロジェクト詳細・担当業務・主な実績 | **▼担当業務**<br>- カーシェアリングサービスの検索・予約機能開発<br>- Touch ID / Face IDによるログイン機能 |
 | 利用技術 | iOS, UIKit |
 
-## スキル
-### 資格
+## 言語経験・スキル
+
+| カテゴリ | 種別 | 経験年数 |
+|---|---|---|
+| プログラミング言語 | TypeScript | 4年半 |
+| | JavaScript | 4年半 |
+| | Swift | 1年半 |
+| | Ruby | 1年 |
+| フレームワーク・ライブラリ | React | 4年半 |
+| | React Native | 4年半 |
+| | Redux | 4年半 |
+| | Ruby on Rails | 1年 |
+| | Electron | 2年 |
+| CSS関連 | emotion | 2年 |
+| CMS | WordPress | 1年 |
+
+## 資格
 - 応用情報技術者（2021年6月）
-
-### フロントエンドエンジニアとして
-- TBD
-
-### バックエンドエンジニアとして
-- TBD
-
-### その他
-- PHP, WordPress製のWebサイト保守経験
-- Google Analytics 4を使ったABテストの実装経験
-- GoogleAppScriptの使用経験
-- CRMツール（Zoho）とのAPI連携、Zoho上でのワークフロー構築経験
-
-### iOSエンジニアとして
-- iOSアプリ（Swift）エンジニアとして1年半ほど業務経験あり。
-- VIPERアーキテクチャでのアプリ実装経験あり。
-- APIを利用した、アプリとサーバーサイドの連携実装経験あり。
-- FirebaseCrashlyticsの利用経験あり。
-- その他、サーバーログの確認や、簡単なSQL(ORACLE)の業務経験あり。
