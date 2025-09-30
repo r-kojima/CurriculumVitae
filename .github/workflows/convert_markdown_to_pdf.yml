@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - markdown/
+      - markdown
   workflow_dispatch:
 
 jobs:
