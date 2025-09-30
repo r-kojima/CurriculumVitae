@@ -22,7 +22,7 @@ jobs:
           input_path: markdown/CurriculumVitae.md
           output_dir: pdf
           build_html: false
-          css_file: styles/style.css
+          theme: styles/style.css
 
       - name: Upload PDF as artifact
         uses: actions/upload-artifact@v4
