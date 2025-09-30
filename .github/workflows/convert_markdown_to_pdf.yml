@@ -1,0 +1,32 @@
+name: Convert Markdown to PDF
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - markdown/
+  workflow_dispatch:
+
+jobs:
+  convert_to_pdf:
+    name: Convert Markdown to PDF
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Convert Markdown to PDF
+        uses: BaileyJM02/markdown-to-pdf@v1.2.0
+        with:
+          input_path: markdown/CurriculumVitae.md
+          output_dir: pdf
+          build_html: false
+
+      - name: Upload PDF as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: 職務経歴書
+          path: pdf/CurriculumVitae.pdf
+
+
