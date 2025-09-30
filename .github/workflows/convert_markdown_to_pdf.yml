@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - markdown
+      - 'markdown/**'
   workflow_dispatch:
 
 jobs:
@@ -28,6 +28,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: 職務経歴書
-          path: pdf/職務経歴書.pdf
+          path: pdf/CurriculumVitae.pdf
 
 
