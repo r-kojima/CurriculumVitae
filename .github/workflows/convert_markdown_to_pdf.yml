@@ -22,11 +22,12 @@ jobs:
           input_path: markdown/CurriculumVitae.md
           output_dir: pdf
           build_html: false
+          css_file: styles/style.css
 
       - name: Upload PDF as artifact
         uses: actions/upload-artifact@v4
         with:
           name: 職務経歴書
-          path: pdf/CurriculumVitae.pdf
+          path: pdf/職務経歴書.pdf
 
 

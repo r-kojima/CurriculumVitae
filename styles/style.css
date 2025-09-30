@@ -1,0 +1,8 @@
+body {
+    font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+}
+
+/* コードブロック用（オプション） */
+code, pre {
+    font-family: "Noto Sans Mono CJK JP", "Source Han Code JP", monospace;
+}
