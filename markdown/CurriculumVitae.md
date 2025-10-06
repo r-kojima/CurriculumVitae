@@ -85,7 +85,7 @@ iOSエンジニアとしてキャリアをスタートした後、フロント�
 | | Redux | 4年半 | 現職のSaaS開発で習得 |
 | | Ruby on Rails | 1年 | 自己学習した上で、現職のバックエンド開発を一部担当 |
 | | Electron | 2年 | 現職のSaaS開発で習得 |
-| CSS関連 | emotion | 2年 | 現職のSaaS開発で習得 |
+| CSS関連 | Emotion | 2年 | 現職のSaaS開発で習得 |
 | | SCSS | 2年 | 現職のSaaS開発で習得 |
 | CMS | WordPress | 1年 | 現職でオウンドメディアやコーポレートサイト等の保守を担当 |
 
