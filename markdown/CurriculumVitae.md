@@ -76,18 +76,18 @@ iOSエンジニアとしてキャリアをスタートした後、フロント�
 
 ## 言語経験・スキル
 
-| カテゴリ | 種別 | 経験年数 |
-| プログラミング言語 | TypeScript | 4年半 |
-| | JavaScript | 4年半 |
-| | Swift | 1年半 |
-| | Ruby | 1年 |
-| フレームワーク・ライブラリ | React | 4年半 |
-| | React Native | 4年半 |
-| | Redux | 4年半 |
-| | Ruby on Rails | 1年 |
-| | Electron | 2年 |
-| CSS関連 | emotion | 2年 |
-| CMS | WordPress | 1年 |
+| カテゴリ | 種別 | 経験年数 | 詳細 |
+| プログラミング言語 | TypeScript | 4年半 | 現職にてReactアプリケーションをTypeScriptで開発 |
+| | Ruby | 1年 | 自己学習した上で、現職のバックエンド開発を一部担当 |
+| | Swift | 1年半 | 一社目でiOSアプリ開発のために習得 |
+| フレームワーク・ライブラリ | React | 4年半 | 現職のSaaS開発で習得 |
+| | React Native | 4年半 | 現職のSaaS開発で習得 |
+| | Redux | 4年半 | 現職のSaaS開発で習得 |
+| | Ruby on Rails | 1年 | 自己学習した上で、現職のバックエンド開発を一部担当 |
+| | Electron | 2年 | 現職のSaaS開発で習得 |
+| CSS関連 | emotion | 2年 | 現職のSaaS開発で習得 |
+| | SCSS | 2年 | 現職のSaaS開発で習得 |
+| CMS | WordPress | 1年 | 現職でオウンドメディアやコーポレートサイト等の保守を担当 |
 
 ## 資格
 - 応用情報技術者（2021年6月）
