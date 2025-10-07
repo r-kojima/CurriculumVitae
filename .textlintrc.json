@@ -5,7 +5,8 @@
   "rules": {
     "preset-ja-technical-writing": {
       "sentence-length": {
-        "max": 150
+        "max": 150,
+        "exclusionPatterns": ["/\\|.*\\|/"]
       },
       "no-exclamation-question-mark": false,
       "ja-no-weak-phrase": false,
